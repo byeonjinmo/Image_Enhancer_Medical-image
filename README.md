@@ -76,4 +76,4 @@ $ python manage.py runserver
 <img src="./images/Select Options page .png" width="400px"></img>
 
 #### Result 
-![Image](https://github.com/user-attachments/assets/4afebf12-13a2-4713-8df5-d9f7556ee567)
+<img width="228" alt="Image" src="https://github.com/user-attachments/assets/d5685d62-34a0-413c-9753-8702462648f0" />
